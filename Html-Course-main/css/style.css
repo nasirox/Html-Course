@@ -10,7 +10,6 @@ h1{
 ul {
     padding: 15px;
     list-style: none;
-    float: right;
 }
 ul li {
     padding: 5px;
@@ -63,7 +62,3 @@ a {
     height: 10vh;
 }
 
-#logo-img{
-    width: 5vw;
-    padding: 10px;
-}
